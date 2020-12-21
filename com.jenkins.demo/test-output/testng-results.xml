@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-21T17:33:28 IST" name="Default suite" finished-at="2020-12-21T17:33:51 IST" duration-ms="23420">
+    <groups>
+    </groups>
+    <test started-at="2020-12-21T17:33:28 IST" name="Default test" finished-at="2020-12-21T17:33:51 IST" duration-ms="23420">
+      <class name="com.jenkins.demo.Deserelization">
+        <test-method signature="testpojo()[pri:0, instance:com.jenkins.demo.Deserelization@28975c28]" started-at="2020-12-21T17:33:28 IST" name="testpojo" finished-at="2020-12-21T17:33:51 IST" duration-ms="23226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpojo -->
+      </class> <!-- com.jenkins.demo.Deserelization -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
